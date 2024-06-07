@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+.heading {
+    color: #EEEEEE;
+}
+
+.score-outerdiv{
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    gap: 0px;
+    border-radius: 5px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.score{
+    width: 117px;
+    height: 120px;
+    top: 125px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Cursed Timer ULiL;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 126.67px;
+    text-align: center;    
+}
+
+.container {
+    background-color: #1B244A;
+    display: flex;
+    justify-content: space-around;
+}
+
+button{
+    background-color: transparent;
+    color: #EEEEEE;
+    box-shadow: none;
+}
+
+
